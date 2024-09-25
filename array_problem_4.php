@@ -2,8 +2,8 @@
 
 The majority element is the element that appears more than ⌊n / 2⌋ times. You may assume that the majority element always exists in the array.
 
- 
-
+ https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/
+Boyer-Moore Majority Voting Algorithm
 Example 1:
 
 Input: nums = [3,2,3]
